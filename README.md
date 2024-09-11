@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franzabsalon&label=Profile%20views&color=0e75b6&style=flat" alt="franzabsalon" /> </p>
 
-- 🌱 I’m currently learning **GSAP, Next JS, TypeScript, and Docker**
+- 🌱 I’m currently learning **GSAP, Next JS, and TypeScript**
 
 - 💬 Ask me about **Figma, React JS, and TailwindCSS**
 
